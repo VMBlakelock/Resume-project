@@ -1,7 +1,7 @@
-# Code Institute
+# Resume project
 
-Welcome Vickie,
+Here we have an example excercise of a resume.
 
-We have preinstalled all of the tools you need to get started.
+I followed the videos to create the site
 
-Happy coding!
+Seems I have an issue with the resume page not opening
